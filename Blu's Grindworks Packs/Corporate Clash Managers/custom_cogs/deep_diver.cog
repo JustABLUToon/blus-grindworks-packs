@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"I'm not so shore you know what you're getting into.",
+		"Let's dive right into this, shall we?",
+		"You're getting into deep waters, Toon.",
+		"This battle will throw you off the deep end.",
+		"I'll drag you down with me.",
+		"Why don't I stem the tide for a bit?",
+		"Let's sea if you can handle this."
+	],
+	"can_speak": true,
+	"cog_name": "Deep Diver",
+	"custom_nametag_height": 6.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/board_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/board_blazer.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_boardbot.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/board_leg.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_board.png",
+		"head_model": "user://save/custom_cogs/deep-diver_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "929292ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 7,
+	"name_plural": "",
+	"name_prefix": "Deep",
+	"name_suffix": "Diver",
+	"scale": 7.0,
+	"suit": 2
+}

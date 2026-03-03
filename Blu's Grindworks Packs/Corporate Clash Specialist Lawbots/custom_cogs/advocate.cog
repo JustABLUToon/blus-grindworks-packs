@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I'm quite versed in paw and order.",
+		"I'm not afraid of mew.",
+		"When I'm through with you, you'll be hiss-tory.",
+		"You'll be all out of paw-sitivity when I'm through with you.",
+		"It's time fur you to leave.",
+		"I'm feline quite good about this encounter.",
+		"You shouldn't have strayed from the playground.",
+		"You shouldn't have strayed from the playground.",
+		"You're awfully catty.",
+		"You'll find I'm quite a fur-midable opponent.",
+		"Don't worry Toon, I have a purr-fect record.",
+		"It's im-paw-sible for you to win this battle.",
+		"Quit kitten around, Toon. You know you can't beat me."
+	],
+	"can_speak": true,
+	"cog_name": "Advocate",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres"
+		],
+		"baked_status_effects": [],
+		"head_model": "user://save/custom_cogs/advocate_head.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "141826ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.25,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 5,
+	"name_plural": "",
+	"name_prefix": "Advo",
+	"name_suffix": "cate",
+	"scale": 5.45,
+	"suit": 2
+}

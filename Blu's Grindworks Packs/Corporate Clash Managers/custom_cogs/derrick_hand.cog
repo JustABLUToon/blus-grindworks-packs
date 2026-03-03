@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I'll be sure to drill in the point.",
+		"I'm suspending this well, Toon.",
+		"This will be a spinning success.",
+		"You seem to be getting a bit dizzy."
+	],
+	"can_speak": true,
+	"cog_name": "Derrick Hand",
+	"custom_nametag_height": 10.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/boss_sleeve_exe.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/boss_blazer_exe.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/boss_leg_exe.png",
+		"head_model": "user://save/custom_cogs/derrick-hand_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "45403eff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Derrick",
+	"name_suffix": "Hand",
+	"scale": 7.0,
+	"suit": 0
+}

@@ -1,0 +1,45 @@
+{
+	"battle_phrases": [
+		"You and I are polar opposites, Toon.",
+		"You'll find my methods quite aggressive.",
+		"You wouldn't want to see me around the block.",
+		"Consider me a roadblock in your progress.",
+		"You won't pass this exam.",
+		"A Toon? Looks like I'll have to grin and bar it.",
+		"I'm not just another brick in the wall.",
+		"You're on my block now!",
+		"You're blocking my way.",
+		"You can't block progress, Toon.",
+		"I'm a real chip off the old block.",
+		"You've been barred from going any further.",
+		"Consider yourself blocked."
+	],
+	"cog_name": "Barrister",
+	"custom_nametag_height": 10.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+		],
+		"head_model": "user://save/custom_cogs/barrister_head.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "f3f3f3ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 0.75,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 7,
+	"name_plural": "",
+	"name_prefix": "Barri",
+	"name_suffix": "ster",
+	"scale": 6.75,
+	"suit": 0
+}

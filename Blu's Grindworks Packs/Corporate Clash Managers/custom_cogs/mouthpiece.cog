@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"Come to chat?",
+		"I was hoping you'd come visit me.",
+		"Don't mouth off to me, young Toon!",
+		"You should have called ahead, I could have made you some cookies!",
+		"Disrespectful kids like you get sent back to the playground."
+	],
+	"can_speak": true,
+	"cog_name": "Mouthpiece",
+	"custom_nametag_height": 9.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"head_model": "user://save/custom_cogs/mouthpiece_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "444960ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Mouth",
+	"name_suffix": "piece",
+	"scale": 4.75,
+	"suit": 1
+}

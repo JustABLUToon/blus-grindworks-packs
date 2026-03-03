@@ -1,0 +1,45 @@
+{
+	"battle_phrases": [
+		"Throwing your hat into the ring, Toon?",
+		"You won't be saved by the bell this time, Toon.",
+		"Are your alarm bells ringing?",
+		"I'll run rings around you.",
+		"Consider your bell rung, Toon."
+	],
+	"can_speak": true,
+	"cog_name": "Bellringer",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"head_model": "user://save/custom_cogs/bellringer_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "b68e49ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Bell",
+	"name_suffix": "ringer",
+	"scale": 4.75,
+	"suit": 1
+}

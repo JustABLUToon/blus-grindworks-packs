@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I shall putteth this area on lockethdown.",
+		"What art thee doing here? Nay Toons did allow.",
+		"Halt! Keepeth hence from me!",
+		"I'm obligated to removeth thee, per industry standards."
+	],
+	"can_speak": true,
+	"cog_name": "Gatekeeper",
+	"custom_nametag_height": 12.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/gk_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/gk_blazer.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_boardbot.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/gk_leg.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_board.png",
+		"head_model": "user://save/custom_cogs/gatekeeper_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "4c4c4cff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 10,
+	"level_low": 10,
+	"name_plural": "Gatekeepers",
+	"name_prefix": "Gate",
+	"name_suffix": "keeper",
+	"scale": 4.6,
+	"suit": 0
+}

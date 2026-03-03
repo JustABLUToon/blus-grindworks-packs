@@ -1,0 +1,42 @@
+{
+	"battle_phrases": [
+		"CHOP, CHOP, CHOP! Let's Hurreh this up!",
+		"AH-HAH-HEH! I'll chop you down!",
+		"Yah oveh-grown, Toon!",
+		"Gegh! Let's cut to the chase!"
+	],
+	"can_speak": true,
+	"cog_name": "Treekiller",
+	"custom_nametag_height": 7.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"head_model": "user://save/custom_cogs/treekiller_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "aed4a8ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Tree",
+	"name_suffix": "killer",
+	"scale": 5.5,
+	"suit": 2
+}

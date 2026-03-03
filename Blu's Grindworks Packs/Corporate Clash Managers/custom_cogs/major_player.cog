@@ -1,0 +1,45 @@
+{
+	"battle_phrases": [
+		"Caught the blues, baby?",
+		"Time to face the music and dance, Tune.",
+		"Let's tango-ago-go!",
+		"Skibidobabadadoo!"
+	],
+	"can_speak": true,
+	"cog_name": "Major Player",
+	"custom_nametag_height": 9.8,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "res://models/cogs/textures/boss/sleeve.png",
+		"custom_blazer_tex": "res://models/cogs/textures/boss/blazer.png",
+		"custom_leg_tex": "res://models/cogs/textures/boss/leg.png",
+		"head_model": "user://save/custom_cogs/major-player_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Major",
+	"name_suffix": "Player",
+	"scale": 7.0,
+	"suit": 0
+}

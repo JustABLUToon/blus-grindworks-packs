@@ -1,0 +1,41 @@
+{
+	"battle_phrases": [
+		"My dad says that the union forces us to take breaks.",
+		"My show is on in a few minutes.",
+		"You're just trying to mooch off of my cable package.",
+		"I'm assuming you've met my dad."
+	],
+	"can_speak": true,
+	"cog_name": "Multislacker",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/clip_on_tie.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"head_model": "user://save/custom_cogs/multislacker_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "676968ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Multi",
+	"name_suffix": "slacker",
+	"scale": 4.45,
+	"suit": 2
+}

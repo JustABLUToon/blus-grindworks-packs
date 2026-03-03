@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"Clearly, you've been outmatched.",
+		"I’ll gladly fight over petty differences.",
+		"You need glasses if you think you can beat me.",
+		"Fog-get about winning this one, Toon.",
+		"Don't worry toon, I'm not walking into this one blind.",
+		"Your vision must be foggy.",
+		"I can't see you winning this one.",
+		"A petty you ran into me.",
+		"This battle should be quite a spectacle.",
+		"I haven't mist a Toon yet.",
+		"You can't beat my specs, Toon.",
+		"I can see your defeat quite clearly."
+	],
+	"can_speak": true,
+	"cog_name": "Pettifogger",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/write_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres"
+		],
+		"baked_status_effects": [],
+		"head_model": "user://save/custom_cogs/pettifogger_head.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "a7aed6ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.25,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 9,
+	"level_low": 2,
+	"name_plural": "",
+	"name_prefix": "Petti",
+	"name_suffix": "fogger",
+	"scale": 4.35,
+	"suit": 1
+}

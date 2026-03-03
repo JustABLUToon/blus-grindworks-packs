@@ -1,0 +1,46 @@
+{
+	"battle_phrases": [
+		"I'M the one who's gonna put ya away for good!",
+		"Perhaps this'll be \"persuasion\" enough for ya!",
+		"Consider this ya share for the operation.",
+		"Get outta my orbit, Toon!"
+	],
+	"can_speak": true,
+	"cog_name": "Plutocrat",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/cash_sleeve_exe.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/cash_blazer_exe.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/cash_leg_exe.png",
+		"head_model": "user://save/custom_cogs/plutocrat_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "cdc8bfff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "",
+	"name_prefix": "Pluto",
+	"name_suffix": "crat",
+	"scale": 3.35,
+	"suit": 2
+}

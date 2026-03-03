@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"Sew, you've found me?",
+		"A Toon? Knot a problem.",
+		"You seam-stressed to fight me.",
+		"Get to the point, Toon.",
+		"My abilities are on point.",
+		"You'll be hanging on by a thread when I'm done with you.",
+		"Toons seem to have a pattern of losing to me.",
+		"Needleless to say, you'll be heading to the playground.",
+		"I've got my eye on you!",
+		"I'll point you back to the playground."
+	],
+	"can_speak": true,
+	"cog_name": "Needlenose",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"baked_status_effects": [],
+		"head_model": "user://save/custom_cogs/needlenose_head.glb",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "5668a9ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 0.75,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 9,
+	"level_low": 3,
+	"name_plural": "",
+	"name_prefix": "Needle",
+	"name_suffix": "nose",
+	"scale": 4.25,
+	"suit": 2
+}

@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"There ain't room in this town for tha both o' us.",
+		"Yippee-ki-yah-yippee-ki-yo!",
+		"Ink says yer wanted.",
+		"Yer farm looks drained."
+	],
+	"can_speak": true,
+	"cog_name": "Director of Land Development",
+	"custom_nametag_height": 10.0,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/eviction_notice.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/quake.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/board_sleeve_exe.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/board_blazer_exe.png",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_boardbot.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/board_leg_exe.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_board.png",
+		"head_model": "user://save/custom_cogs/dold_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "c4581aff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 12,
+	"name_plural": "Directors of Land Development",
+	"name_prefix": "Director of",
+	"name_suffix": "of Land Development",
+	"scale": 7.25,
+	"suit": 0
+}
