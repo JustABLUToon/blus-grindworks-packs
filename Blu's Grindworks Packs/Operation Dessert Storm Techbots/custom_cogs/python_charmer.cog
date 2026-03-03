@@ -1,0 +1,42 @@
+{
+	"battle_phrases": [
+		"You are looking particularly lovely today!",
+		"Software is my nature.",
+		"Let me find a solution to this problem.",
+		"Don't snake off on me, Toon!",
+		"What happens next will charm you.",
+		"Sss! Be quiet, Toon!",
+		"Toons are no trouble against my software.",
+		"My software will withdraw your attacks."
+	],
+	"cog_name": "Python Charmer",
+	"custom_nametag_height": 10.0,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tabulate.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/python-charmer_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": []
+	},
+	"hand_color": "6b4773ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 6,
+	"name_plural": "",
+	"scale": 5.25,
+	"suit": 0
+}

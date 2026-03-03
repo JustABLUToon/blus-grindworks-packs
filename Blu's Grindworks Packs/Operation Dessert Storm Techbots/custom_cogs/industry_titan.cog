@@ -1,0 +1,45 @@
+{
+	"battle_phrases": [
+		"I am a Titan in this department.",
+		"This industry isn’t for you, Toon.",
+		"You’re up against Big Tech.",
+		"Your code is not up to industry standards.",
+		"This will be the last time you halt development.",
+		"There's been a change in Tech.",
+		"This world is only big enough for me.",
+		"Marble in my glory.",
+		"I’m as sturdy as stone."
+	],
+	"cog_name": "Industry Titan",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/industry-titan_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "cdc4d8ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 8,
+	"name_plural": "",
+	"scale": 7.0,
+	"suit": 0
+}

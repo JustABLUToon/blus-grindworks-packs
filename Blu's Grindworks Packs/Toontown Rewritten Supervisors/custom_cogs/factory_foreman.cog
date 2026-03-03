@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"This intrusion will certainly affect our timetable.",
+		"This facility WILL meet its quota, no matter what!",
+		"You won't get pay and a half for this.",
+		"There's no overtime pay for you, Toons.",
+		"I'm removing your warranty.",
+		"Management requires you to Stop, Drop, and Roll.",
+		"Don't get tired yet, there's plenty of work left.",
+		"Try not to burn out, Toon."
+	],
+	"can_speak": true,
+	"cog_name": "The Factory Foreman",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tremor.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/foreman_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/foreman_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/foreman_leg.png",
+		"head_model": "user://save/custom_cogs/ttr-foreman_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "ebbdbdff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 10,
+	"level_low": 10,
+	"name_plural": "Factory Foremen",
+	"name_prefix": "The Factory",
+	"name_suffix": "Foreman",
+	"scale": 5.75,
+	"suit": 1
+}

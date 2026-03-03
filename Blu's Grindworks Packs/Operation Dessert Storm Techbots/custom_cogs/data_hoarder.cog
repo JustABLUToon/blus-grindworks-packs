@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"According to my data, this will be easy.",
+		"Another Toon to add to my collection!",
+		"Step aside, you are blocking my data.",
+		"Careful, I know all of your tendencies.",
+		"My approach to this battle is data driven.",
+		"I am going to take a byte out of you.",
+		"Your data is worth far more than you, Toon.",
+		"You think you can keep your information from me?"
+	],
+	"cog_name": "Data Hoarder",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/data-hoarder_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "d5b3dfff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 4,
+	"name_plural": "",
+	"scale": 4.65,
+	"suit": 2
+}

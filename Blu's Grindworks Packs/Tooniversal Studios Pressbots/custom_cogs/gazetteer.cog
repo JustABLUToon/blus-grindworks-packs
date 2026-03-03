@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"Oh deer. I hope you're not another Toon looking for a story.",
+		"Defeating Toons like you make for an easy headline.",
+		"Mess with my writings and you'll get the horns.",
+		"I'll let you gaze upon the headline of your defeat.",
+		"Let me recite you a story. Would you prefer the antlers or the hooves?",
+		"I shouldn't waste my time on such an uninteresting source of news.",
+		"My sources say you'll be no match for me.",
+		"The reports are in, and they're not favorable for you.",
+		"Thinking you'll defeat me is fake news, Toon.",
+		"I'll be your source of sadness today."
+	],
+	"cog_name": "Gazetteer",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/half_windsor.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/gazetteer_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "797979ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 6,
+	"name_plural": "",
+	"name_prefix": "Gazette",
+	"name_suffix": "teer",
+	"scale": 6.45,
+	"suit": 0
+}

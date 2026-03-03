@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"Shall I document this moment of sadness, toon?",
+		"It'll all flash before your eyes very quickly.",
+		"You'll be sad faster than the flash of my camera.",
+		"It looks like a bad hair day for you, toon.",
+		"I'll make you shutter in fear.",
+		"Your defeat will make for a great photo opportunity.",
+		"The cogs will love a photo of you going sad.",
+		"Photographers usually don't interfere, but this opportunity is MUCH too easy!",
+		"Say 'Sadness!'",
+		"Stop slouching. You'll get to slouch plenty once we're finished."
+	],
+	"cog_name": "Shutter Bug",
+	"custom_nametag_height": 9.0,
+	"custom_nametag_suffix": "",
+	"department": 0,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/half_windsor.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/shutter-bug_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "4f5464ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 2,
+	"name_plural": "",
+	"name_prefix": "Shutter",
+	"name_suffix": "Bug",
+	"scale": 2.5,
+	"suit": 2
+}

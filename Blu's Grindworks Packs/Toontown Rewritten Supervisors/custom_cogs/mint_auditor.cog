@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"You may have gotten this far, but the market is on MY side now.",
+		"Time is money, Toon. Don't waste mine.",
+		"Just try to bear this market.",
+		"I forecast a change in the market.",
+		"Time to put this market on ice.",
+		"You mess with the BULL, you get the horns.",
+		"This investment ought to pay off."
+	],
+	"can_speak": true,
+	"cog_name": "The Mint Auditor",
+	"custom_nametag_height": 6.5,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_tie.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pick_pocket_money.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/auditor_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/auditor_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/auditor_leg.png",
+		"head_model": "user://save/custom_cogs/ttr-auditor_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "a6f2d9ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 12,
+	"level_low": 10,
+	"name_plural": "Mint Auditors",
+	"name_prefix": "The Mint",
+	"name_suffix": "Auditor",
+	"scale": 5.5,
+	"suit": 2
+}

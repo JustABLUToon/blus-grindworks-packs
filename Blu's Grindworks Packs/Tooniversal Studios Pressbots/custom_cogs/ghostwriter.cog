@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"'I will lose.' Your words, not mine.",
+		"It's no secret that you'll be on the losing end today.",
+		"You're not aware of what I'm capable of.",
+		"Anchor Man sends his regards - through me.",
+		"Afraid of ghosts, Toon?",
+		"Coming face to face with a ghost is no laughing matter.",
+		"I'll be the one writing your final words, Toon.",
+		"The writing of your defeat is on the wall.",
+		"I may be just a writer, but my words are way stronger than you may think.",
+		"I have a few words in mind for you, Toon."
+	],
+	"cog_name": "Ghostwriter",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/eviction_notice.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/ghost-writer_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "3f3d3bff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 5,
+	"name_plural": "",
+	"name_prefix": "Ghost",
+	"name_suffix": "writer",
+	"scale": 5.45,
+	"suit": 0
+}

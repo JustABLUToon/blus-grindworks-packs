@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"Good news: I'll be defeating you. Bad news: you'll be defeated.",
+		"Breaking news! You're going to be defeated.",
+		"I'm Anchor Man, and welcome to your daily Toon beatdown.",
+		"This just in - Toon goes WAY over their head trying to battle me.",
+		"Why look at that, it's time for me to give you a Toon-o'clock news report!",
+		"It is with a heavy heart that I report on the news of your defeat.",
+		"We interrupt your program to bring a wave of sadness.",
+		"The tragic story of your defeat is the top story of the night.",
+		"Ghostwriter sends his regards.",
+		"My teleprompter is only showing me images of your defeat."
+	],
+	"cog_name": "Anchor Man",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/razzle_dazzle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/power_trip.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/anchor-man_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "b9b1adff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 8,
+	"name_plural": "Anchor Men",
+	"name_prefix": "Anchor",
+	"name_suffix": "Man",
+	"scale": 7.0,
+	"suit": 0
+}

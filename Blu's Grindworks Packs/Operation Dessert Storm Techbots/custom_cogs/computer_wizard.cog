@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"This will be easy - I know my way around things.",
+		"My proficiency with tech is magical.",
+		"I spell DEFEAT.",
+		"I’m going to put you in a cast.",
+		"You’re not ready for what I’m conjuring.",
+		"This next script will be enchanting.",
+		"Prepare for your last duel, Toon.",
+		"The Mages Guild knows all about you, Toon."
+	],
+	"cog_name": "Computer Wizard",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tremor.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/liquidate.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/computer-wizard_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "d8b4daff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 10,
+	"level_low": 7,
+	"name_plural": "",
+	"scale": 6.25,
+	"suit": 1
+}

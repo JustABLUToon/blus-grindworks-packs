@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"I know something will work for you.",
+		"Let me remove your bugs.",
+		"Are you buggy? Let me help.",
+		"I'm being paid to fix your ways.",
+		"I'll have to take you apart.",
+		"Good, I was bored anyways.",
+		"You need some urgent care.",
+		"You're not going to like my debug procedure."
+	],
+	"cog_name": "Shotgun Debugger",
+	"custom_nametag_height": 9.5,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/finger_wag.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/shotgun-debugger_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "3d3b38ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 4,
+	"name_plural": "Shotgun Debuggers",
+	"scale": 4.9,
+	"suit": 2
+}

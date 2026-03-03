@@ -1,0 +1,43 @@
+{
+	"battle_phrases": [
+		"Your opinions don't matter to me.",
+		"I'll tell you who runs this town.",
+		"Let's discuss a stand-off.",
+		"Where're you headed, warrior?",
+		"Don't even think about it, warrior.",
+		"Tell them I'm coming.",
+		"Get ready for this flame war.",
+		"Civil discussions? What are those?"
+	],
+	"cog_name": "Keyboard Warrior",
+	"custom_nametag_height": 12.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pink_slip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/eviction_notice.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/keyboard-warrior_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": []
+	},
+	"hand_color": "595959ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 5,
+	"name_plural": "",
+	"scale": 4.8,
+	"suit": 0
+}

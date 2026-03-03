@@ -1,0 +1,54 @@
+{
+	"battle_phrases": [
+		"You'll regret entering this facility...",
+		"I'll counter your tricks with a trap of my own.",
+		"Let me drive home this point clearly: you lose.",
+		"What's wrong, Toon? You look puttered out.",
+		"No iron will help you now.",
+		"Don't sink too deep.",
+		"Good luck taking this shot.",
+		"You're just giving me another ball on the tee, Toon.",
+		"You're in for a long game now.",
+		"It's time for my shot.",
+		"I won't whiff this opportunity.",
+		"Let's see if your skills are up to par."
+	],
+	"can_speak": true,
+	"cog_name": "The Club President",
+	"custom_nametag_height": 12.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/sink_hole.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres"
+		],
+		"baked_status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/clubpresident_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/clubpresident_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/clubpresident_leg.png",
+		"head_model": "user://save/custom_cogs/ttr-club-president_head.glb",
+		"head_textures": [],
+		"status_effects": [
+			"res://objects/battle/battle_resources/status_effects/resources/status_effect_mod_cog.tres"
+		]
+	},
+	"hand_color": "f2bfbfff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": true,
+	"level_high": 10,
+	"level_low": 10,
+	"name_plural": "Club Presidents",
+	"name_prefix": "The Club",
+	"name_suffix": "President",
+	"scale": 4.0,
+	"suit": 0
+}

@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"I am the brains of this operation.",
+		"I am always one step ahead.",
+		"Who needs brawn when you have BRAIN.",
+		"Think fast, Toon.",
+		"Out of the way Toon, you are no match for my intelligence.",
+		"Checkmate.",
+		"I can predict your every move.",
+		"My next move will boggle your mind.",
+		"Are you challenging my intellect?",
+		"I don’t Think so.",
+		"You’re getting on my nerves.",
+		"You Toons give me a headache."
+	],
+	"cog_name": "Brainiac",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/brain_storm.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tabulate.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/brainiac_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "a186a4ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 12,
+	"level_low": 5,
+	"name_plural": "",
+	"scale": 5.0,
+	"suit": 0
+}

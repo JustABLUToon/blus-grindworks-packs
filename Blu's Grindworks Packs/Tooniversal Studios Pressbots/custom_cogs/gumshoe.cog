@@ -1,0 +1,48 @@
+{
+	"battle_phrases": [
+		"Time to investigate your weaknesses, Toon.",
+		"The only real fact is that you'll be defeated.",
+		"You'll have to do some deep digging to defeat me.",
+		"It's no secret that you're going to lose, Toon.",
+		"I'll be bringing your secrets into the public eye.",
+		"Your weaknesses will be a great write-up.",
+		"Spare a moment to answer a few questions?",
+		"Reports indicate this won't be a favourable result.",
+		"Glad you bumped into me. I needed something to investigate.",
+		"My discovery of your sadness will be breaking news!"
+	],
+	"cog_name": "Gumshoe",
+	"custom_nametag_height": 8.5,
+	"custom_nametag_suffix": "",
+	"department": 3,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/rubber_stamp.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/heckle.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/guilt_trip.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/gumshoe_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "b19a40ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 3,
+	"name_plural": "",
+	"name_prefix": "Gum",
+	"name_suffix": "shoe",
+	"scale": 4.5,
+	"suit": 2
+}

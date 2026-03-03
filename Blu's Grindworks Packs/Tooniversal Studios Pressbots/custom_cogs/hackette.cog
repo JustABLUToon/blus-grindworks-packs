@@ -1,0 +1,47 @@
+{
+	"battle_phrases": [
+		"My report on you being a hack is nearly complete.",
+		"Will you enjoy your losses being publicized?",
+		"'Toon defeated ruthlessly' will be my next big headline.",
+		"Journalism moves fast, just like your defeat will be",
+		"I'm eyeing your defeat to be my next big break.",
+		"It's improper etiquette to attack a journalist, Toon.",
+		"You better give me a good fight. I'm itching for a good story.",
+		"This better be good. I'm this close to finishing my magnum opus.",
+		"The deadline for your sadness report is coming up.",
+		"Any final statements before I publish your defeat?"
+	],
+	"cog_name": "Hackette",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/rolodex.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/shake.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/hackette_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "ffffffff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 4,
+	"name_plural": "",
+	"name_prefix": "Hack",
+	"name_suffix": "ette",
+	"scale": 4.35,
+	"suit": 1
+}

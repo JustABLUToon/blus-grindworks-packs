@@ -1,0 +1,49 @@
+{
+	"battle_phrases": [
+		"You smell of nothing but bad news, Toon.",
+		"My pawprints will be all over the reports of your defeat, Toon.",
+		"Your presence is making my ears itch. Wait - scratch that report.",
+		"You'll just be another line stacked inside my report when we're finished.",
+		"I'm sure you'll find this breaking news to be quite ruff.",
+		"You're barking at the wrong source of news, toon.",
+		"Sniffing out bad sources is my job, and you're one of them.",
+		"Play dead, it'll make for some lighthearted news.",
+		"I only sit, shake and speak to reputable sources.",
+		"I'm going to keep this battle on a short leash."
+	],
+	"cog_name": "News Hound",
+	"custom_nametag_height": 0.0,
+	"custom_nametag_suffix": "",
+	"department": 2,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/evil_eye.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tee_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pink_slip.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/hang_up.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/workout.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/press_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/press_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/press_leg.png",
+		"head_model": "user://save/custom_cogs/news-hound_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_pressbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_press.png",
+		"head_textures": [],
+		"status_effects": []
+	},
+	"hand_color": "473d3bff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 8,
+	"level_low": 7,
+	"name_plural": "",
+	"name_prefix": "News",
+	"name_suffix": "Hound",
+	"scale": 6.8,
+	"suit": 0
+}

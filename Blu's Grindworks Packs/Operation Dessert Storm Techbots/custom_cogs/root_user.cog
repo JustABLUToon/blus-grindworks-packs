@@ -1,0 +1,44 @@
+{
+	"battle_phrases": [
+		"Time to plant you in the ground.",
+		"I'm going to take away your privileges!",
+		"You're the root of the problem.",
+		"Prepare to be rooted out!",
+		"I'm the root of your problem.",
+		"Show me your roots!",
+		"I have full control over your account."
+	],
+	"cog_name": "Root User",
+	"custom_nametag_height": 11.5,
+	"custom_nametag_suffix": "",
+	"department": 1,
+	"external_assets": {
+		"attacks": [
+			"res://objects/battle/battle_resources/cog_attacks/resources/audit.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/tabulate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/write_off.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/freeze_assets.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/calculate.tres",
+			"res://objects/battle/battle_resources/cog_attacks/resources/pound_key.tres"
+		],
+		"custom_arm_tex": "user://save/custom_cogs/custom_suits/tech_sleeve.png",
+		"custom_blazer_tex": "user://save/custom_cogs/custom_suits/tech_blazer.png",
+		"custom_leg_tex": "user://save/custom_cogs/custom_suits/tech_leg.png",
+		"head_model": "user://save/custom_cogs/root-user_head.glb",
+		"custom_emblem_tex": "user://save/custom_cogs/custom_emblems/emblem_techbot.png",
+		"custom_skelecog_tie_tex": "user://save/custom_cogs/custom_skelecog_ties/cog_robot_tie_tech.png",
+		"head_textures": []
+	},
+	"hand_color": "6b4d33ff",
+	"head_color": "ffffffff",
+	"head_pos": "(0.0, 0.0, 0.0)",
+	"head_scale": "(1.0, 1.0, 1.0)",
+	"health_mod": 1.0,
+	"is_admin": false,
+	"is_mod_cog": false,
+	"level_high": 11,
+	"level_low": 8,
+	"name_plural": "",
+	"scale": 7.0,
+	"suit": 0
+}
